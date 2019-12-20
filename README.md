@@ -1,6 +1,5 @@
 # Elastic stack (ELK) - Prometheus - Graphana - Kafka on Docker for developer box usage
 
-(Just for development purpose on my own)
 Run the latest version of the [Elastic stack](https://www.elastic.co/elk-stack) with Docker and Docker Compose.
 
 Based on the official Docker images from Elastic:
